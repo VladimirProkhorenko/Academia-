@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Frontend-разработка",
+        "description": "Основы HTML, CSS, JavaScript и создание сайтов."
+    },
+    {
+        "name": "Python для анализа данных",
+        "description": "Использование Python и Pandas для обработки данных."
+    },
+    {
+        "name": "UI/UX дизайн",
+        "description": "Создание удобных интерфейсов и проектирование дизайна."
+    }
+]
